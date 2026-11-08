@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Abdus Samad
 
-<!--
-**samadfcibd/samadfcibd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer | Backend Development | Master's Student in Computer Science**
 
-Here are some ideas to get you started:
+I'm a software engineer with over six years of professional experience developing and maintaining backend applications, REST APIs, and database-driven systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My primary experience is in PHP, Laravel, MySQL, and JavaScript. I'm currently pursuing an M.Sc. in Computer Science at the University of Rostock, where I've completed my Master's thesis focusing on data preprocessing, meta-learning, and forecasting.
+
+I enjoy designing maintainable applications, solving complex technical problems, and exploring how software engineering and machine learning can complement each other.
+
+**Tech Stack:** PHP · Laravel · MySQL · JavaScript · Python · Flask · Node.js · REST APIs · Git
+
+**Currently interested in:** Backend Development · Software Engineering · Full-Stack Development · Applied Machine Learning
